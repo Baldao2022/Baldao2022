@@ -1,8 +1,9 @@
-### Opa, eu me chamo Marcos Vinicius e estudo programação desde os meus 16 anos
+### Opa, eu me chamo Marcos Vinicius e estudo programação desde os meus 16 anos, atualmente faço faculdade de ciências da computação
 
-- 🌱 Estou aprofundando estudos em python
-- 😄 Aprendendo javascript e suas tecnologias (HTML e CSS)
-- 🤔 Quero aprender swift, GO e C#
+- 🌱 Estou aprofundando estudos em HTML & CSS.
+- 😄 Aprendendo Javascript e PHP.
+- 😎 Linguagens/tecnologias que tenho conhecimento: C, HTML e CSS.
+- 🤔 Quero aprender Python, React Native e Java.
 <div align="center">
   <a href="https://github.com/MarcosViniciusOB">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusOB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
